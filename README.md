@@ -2,6 +2,17 @@
 
 Its Anouther dashboard
 
+```bash
+{
+git clone https://github.com/Tearran/its_and.git;
+chmod -R 755 "/home/beta/.local/src/its_and/";
+python3 its_and;
+}
+```
+## sensors
+- amg8833
+- bmp280
+- mlx90614
 
 # Menu
 The menu is 3x3 grid
