@@ -9,6 +9,7 @@ chmod -R 755 "/home/beta/.local/src/its_and/";
 python3 its_and;
 }
 ```
+
 ## sensors
 - amg8833
 - bmp280
@@ -22,7 +23,4 @@ The menu is 3x3 grid
 AMG8833 sensor
 ![amg8833](https://github.com/Tearran/its_and/raw/main/img/amg8833.png)
 
-
-
-
-![apache licenses 2.0}(https://www.apache.org/licenses/LICENSE-2.0)
+[apache licenses 2.0](https://www.apache.org/licenses/LICENSE-2.0)
