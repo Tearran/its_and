@@ -196,21 +196,12 @@ class pyServer(BaseHTTPRequestHandler):
 	<g id="grid1b" transform="translate(0,800)">
 		<use id="window1b" href="#frameFull" />
 		<use id="buttons1b" href="#FFB" />
-		<g id="textDatabase" transform="translate(160, 200)">
-			<text x="0" y="0">
-				{}
-			</text>
-		</g>
 	</g>
 
 	<g id="grid1c" transform="translate(0,1600)">
 		<use id="window1c" href="#frameFull" />
 		<use id="buttons1c" href="#FFB" />
-        <g id="textDatabase" transform="translate(160, 200)">
-			<text x="0" y="0">
-				{}
-			</text>
-		</g>
+
 	</g>
 
 	<g id="grid2a" transform="translate(1280)">
@@ -218,7 +209,7 @@ class pyServer(BaseHTTPRequestHandler):
 		<use id="buttons1d" href="#FFB" />
         <g id="textDatabase" transform="translate(160, 200)">
 			<text x="0" y="0">
-
+                {}
 			</text>
 		</g>
 	</g>
@@ -247,6 +238,12 @@ class pyServer(BaseHTTPRequestHandler):
 			<text id="headline01" class="data headline" x="160" y="50">This is "dataHead01"</text>
 			<text id="headline02" class="data headline" x="160" y="85">This is "dataHead02"</text>
 		</g>
+        <g id="textDatabase" transform="translate(160, 200)">
+			<text x="0" y="0">
+            <tspan class="data headline" x="0" dx="0" dy="35">AMG8833 Thermal Camera</tspan>
+				{}
+			</text>
+		</g>
 	</g>
 
 	<g id="grid3b" transform="translate(2560,800)">
@@ -254,7 +251,7 @@ class pyServer(BaseHTTPRequestHandler):
 		<use id="bannerFrame3c" href="#frameBanner" />
 		<g id="textDatabase" transform="translate(160, 200)">
 			<text x="0" y="0">
-            <tspan class="data headline" x="0" dx="0" dy="35">MLX90614: IR TEMPRATURE</tspan>
+            <tspan class="data headline" x="0" dx="0" dy="35">MLX90614: IR Temprature</tspan>
 				{}
 			</text>
 		</g>
@@ -356,7 +353,7 @@ class pyServer(BaseHTTPRequestHandler):
 
         '''
 
-        self.wfile.write(html.format(amg88xx, bmp280, mlx90614, databasex).encode("utf-8"))
+        self.wfile.write(html.format(bmp280, mlx90614, amg88xx, databasex).encode("utf-8"))
 
         self.wfile.write(bytes(scriptRefresh, "utf-8")) 
                              
