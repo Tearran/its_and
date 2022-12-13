@@ -21,3 +21,8 @@ The menu is 3x3 grid
 # Sensor test
 AMG8833 sensor
 ![amg8833](https://github.com/Tearran/its_and/raw/main/img/amg8833.png)
+
+
+
+
+![apache licenses 2.0}(https://www.apache.org/licenses/LICENSE-2.0)
