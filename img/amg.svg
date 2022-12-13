@@ -1,0 +1,123 @@
+<svg id="svg6" version="1.1" viewBox="0 0 1280 800" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<title id="titleAMG88xx">AMG88xx</title>
+	<g id="buttonA" transform="translate(5 10)">
+		<rect id="rect749" y="150" width="95" height="480"/>
+	</g>
+	<g id="frameA">
+		<path id="patha" d="m52.4395 5c-25.3668 0-46.9879 17.3005-47.4297 42.3926h-0.00977v102.607h94.8359v-100.113h0.01367v-7.89648c0-6.67702 4.47729-12.0527 10.0391-12.0527l40.1113-0.001953v-24.9355zm107.561 0v24.9375h960v-24.9375zm970 0v24.9355l40.1113 2e-3c5.5618 0 10.0391 5.37575 10.0391 12.0527v7.89648h0.014v100.113h94.8356v-102.607h-0.01c-0.4412-25.092-22.0625-42.3926-47.4295-42.3926zm50 155v480h95v-480zm-1175 490v102.607h0.00977c0.441793 25.0921 22.0628 42.3926 47.4297 42.3926h97.5605v-24.9356l-40.1113-2e-3c-5.56174 0-10.0391-5.37576-10.0391-12.0527v-7.89649h-0.01367v-100.113zm1175.16 0v100.113h-0.014v7.89649c0 6.677-4.4773 12.0527-10.0391 12.0527l-40.1113 2e-3v24.9355h97.5605c25.367 0 46.9881-17.3005 47.4297-42.3926h0.01v-102.607zm-1020.16 120.062v24.9375h960v-24.9375z"/>
+	</g>
+	<g id="grideye">
+		<g id="rowA" transform="translate(0)">
+			<rect id="pix00" x="300" y="60" width="85" height="85" />
+			<rect id="pix01" x="385" y="60" width="85" height="85" />
+			<rect id="pix02" x="470" y="60" width="85" height="85" />
+			<rect id="pix03" x="555" y="60" width="85" height="85" />
+			<rect id="pix04" x="640" y="60" width="85" height="85" />
+			<rect id="pix05" x="725" y="60" width="85" height="85" />
+			<rect id="pix06" x="810" y="60" width="85" height="85" />
+			<rect id="pix07" x="895" y="60" width="85" height="85" />
+		</g>
+		<g id="rowB" transform="translate(0,85)">
+			<rect id="pix08" x="300" y="60" width="85" height="85" />
+			<rect id="pix09" x="385" y="60" width="85" height="85" />
+			<rect id="pix10" x="470" y="60" width="85" height="85" />
+			<rect id="pix11" x="555" y="60" width="85" height="85" />
+			<rect id="pix12" x="640" y="60" width="85" height="85" />
+			<rect id="pix13" x="725" y="60" width="85" height="85" />
+			<rect id="pix14" x="810" y="60" width="85" height="85" />
+			<rect id="pix15" x="895" y="60" width="85" height="85" />
+		</g>
+		<g id="rowC" transform="translate(0,170)">
+			<rect id="pix16" x="300" y="60" width="85" height="85" />
+			<rect id="pix17" x="385" y="60" width="85" height="85" />
+			<rect id="pix18" x="470" y="60" width="85" height="85" />
+			<rect id="pix19" x="555" y="60" width="85" height="85" />
+			<rect id="pix20" x="640" y="60" width="85" height="85" />
+			<rect id="pix21" x="725" y="60" width="85" height="85" />
+			<rect id="pix22" x="810" y="60" width="85" height="85" />
+			<rect id="pix23" x="895" y="60" width="85" height="85" />
+		</g>
+		<g id="rowD" transform="translate(0,255)">
+			<rect id="pix24" x="300" y="60" width="85" height="85" />
+			<rect id="pix25" x="385" y="60" width="85" height="85" />
+			<rect id="pix26" x="470" y="60" width="85" height="85" />
+			<rect id="pix27" x="555" y="60" width="85" height="85" />
+			<rect id="pix28" x="640" y="60" width="85" height="85" />
+			<rect id="pix29" x="725" y="60" width="85" height="85" />
+			<rect id="pix30" x="810" y="60" width="85" height="85" />
+			<rect id="pix31" x="895" y="60" width="85" height="85" />
+		</g>
+		<g id="rowE" transform="translate(0,340)">
+			<rect id="pix32" x="300" y="60" width="85" height="85" />
+			<rect id="pix33" x="385" y="60" width="85" height="85" />
+			<rect id="pix34" x="470" y="60" width="85" height="85" />
+			<rect id="pix35" x="555" y="60" width="85" height="85" />
+			<rect id="pix36" x="640" y="60" width="85" height="85" />
+			<rect id="pix37" x="725" y="60" width="85" height="85" />
+			<rect id="pix38" x="810" y="60" width="85" height="85" />
+			<rect id="pix39" x="895" y="60" width="85" height="85" />
+		</g>
+		<g id="rowF" transform="translate(0,425)">
+			<rect id="pix40" x="300" y="60" width="85" height="85" />
+			<rect id="pix41" x="385" y="60" width="85" height="85" />
+			<rect id="pix42" x="470" y="60" width="85" height="85" />
+			<rect id="pix43" x="555" y="60" width="85" height="85" />
+			<rect id="pix44" x="640" y="60" width="85" height="85" />
+			<rect id="pix45" x="725" y="60" width="85" height="85" />
+			<rect id="pix46" x="810" y="60" width="85" height="85" />
+			<rect id="pix47" x="895" y="60" width="85" height="85" />
+		</g>
+		<g id="rowG" transform="translate(0,510)">
+			<rect id="pix48" x="300" y="60" width="85" height="85" />
+			<rect id="pix49" x="385" y="60" width="85" height="85" />
+			<rect id="pix50" x="470" y="60" width="85" height="85" />
+			<rect id="pix51" x="555" y="60" width="85" height="85" />
+			<rect id="pix52" x="640" y="60" width="85" height="85" />
+			<rect id="pix53" x="725" y="60" width="85" height="85" />
+			<rect id="pix54" x="810" y="60" width="85" height="85" />
+			<rect id="pix55" x="895" y="60" width="85" height="85" />
+		</g>
+		<g id="rowH" transform="translate(0,595)">
+			<rect id="pix56" x="300" y="60" width="85" height="85" />
+			<rect id="pix57" x="385" y="60" width="85" height="85" />
+			<rect id="pix58" x="470" y="60" width="85" height="85" />
+			<rect id="pix59" x="555" y="60" width="85" height="85" />
+			<rect id="pix60" x="640" y="60" width="85" height="85" />
+			<rect id="pix61" x="725" y="60" width="85" height="85" />
+			<rect id="pix62" x="810" y="60" width="85" height="85" />
+			<rect id="pix63" x="895" y="60" width="85" height="85" />
+		</g>
+	</g>
+	<g id="legend">
+		<rect id="pix00-7" x="160" y="60" width="40" height="85" />
+		<rect id="pix08-3" x="160" y="145" width="40" height="85" />
+		<rect id="pix16-4" x="160" y="230" width="40" height="85" />
+		<rect id="pix24-4" x="160" y="315" width="40" height="85" />
+		<rect id="pix32-0" x="160" y="400" width="40" height="85" />
+		<rect id="pix40-6" x="160" y="485" width="40" height="85" />
+		<rect id="pix48-8" x="160" y="570" width="40" height="85" />
+		<rect id="pix56-2" x="160" y="655" width="40" height="85" />
+	</g>
+	<g id="amgAmiantC" transform="translate(920)">
+		<rect id="pix00-7-3" x="160" y="60" width="40" height="85" />
+		<rect id="pix08-3-0" x="160" y="145" width="40" height="85" />
+		<rect id="pix16-4-5" x="160" y="230" width="40" height="85" />
+		<rect id="pix24-4-4" x="160" y="315" width="40" height="85" />
+		<rect id="pix32-0-4" x="160" y="400" width="40" height="85" />
+		<rect id="pix40-6-1" x="160" y="485" width="40" height="85" />
+		<rect id="pix48-8-7" x="160" y="570" width="40" height="85" />
+		<rect id="pix56-2-6" x="160" y="655" width="40" height="85" />
+	</g>
+	<metadata id="metadata2404">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:title>AMG88xx</dc:title>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+		   <script id="scriptamg">
+		   //<![CDATA[
+		   let hue = 200 + (160 * ( temperature / 80 ));
+			   // ]]>
+	   </script>
+</svg>
